@@ -1,1 +1,3 @@
 google-site-verification: googleb11b06413ebc1da7.HTML
+
+<meta name="description" content="Welcome to Aminu Ag314 official site. View my projects, code, and GitHub Pages portfolio here.">
