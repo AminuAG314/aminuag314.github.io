@@ -1,8 +1,6 @@
-google-site-verification: googleb11b06413ebc1da7.HTML
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Aminu Ag314 | Portfolio & Projects</title>
   <meta name="description" content="Welcome to Aminu Ag314 official site. View my projects, code, and GitHub Pages portfolio here.">
-  <meta name="google-site-verification" content="googleb11b06413ebc1da7" />
 </head>
