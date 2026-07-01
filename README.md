@@ -1,1 +1,1 @@
-# aminuag314.girhub.io
+# aminuag314.github.io
