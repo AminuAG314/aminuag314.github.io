@@ -1,6 +1,6 @@
 ---
 layout: default
-title: AminuAG314
+title: HAMSAJ
 description: "AminuAG314 - Portfolio, Dev projects, and Hamsaj Poultry updates in Nigeria"
 ---
 
