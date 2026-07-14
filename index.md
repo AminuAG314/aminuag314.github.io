@@ -1,10 +1,10 @@
 ---
 layout: default
-title: AminuAG314
+title: HAMSAJ
 description: "AminuAG314 - Portfolio, Dev projects, and Hamsaj Poultry updates in Nigeria"
 ---
 
-# AminuAG314
+# HAMSAJ
 
 Ni ne Aminu. Maraba da zuwa site dina.  
 Wannan shine inda nake rubutu akan **Tech, Dev, da Kasuwancin Poultry** a Nigeria.
